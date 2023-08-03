@@ -1,8 +1,9 @@
-# Welcome to product listing web app
-
-## Features
-  . Login and Authentication 
-  . Editing Product 
-  . Search filters 
-  . Upvoting a product 
-  . Commenting about the product # Product-list_main
+## Welcome to Product Listing webapp 
+This project consist of various features such as 
+    Adding your product : ----- 
+     
+     Login and Authentication 
+     Editing Product 
+     Search filters 
+     Upvoting a product 
+     Commenting about the product 
